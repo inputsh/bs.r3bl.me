@@ -4,7 +4,9 @@ The code behind [my personal website](https://aleksandar-todorovic.github.io).
 
 ## Screenshot
 
-![screenshot](https://aleksandar.todorovic.github.io/assets/screenshot.png)
+![screenshot](https://aleksandar-todorovic.github.io/assets/screenshot.png)
+
+Note that it's not possible to make a good screenshot of the whole website because the left sidebar is not static.
 
 Screenshot taken on June 17th, 2015.
 
