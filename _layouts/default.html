@@ -16,12 +16,13 @@
   			<link rel="stylesheet" href="/css/style-xlarge.css" />
   		</noscript>
   		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   	</head>
 
 	<body id="top">
 
       <header id="header">
-          <a href="#" class="image avatar"><img src="/images/avatar.jpg" alt="" /></a>
+          <a href="{{ site.url }}" class="image avatar"><img src="/images/avatar.jpg" alt="" /></a>
           <h1><strong>Aleksandar Todorović</strong><br/>
             Student. Hacker.<br/>
             Open Source Advocate.<br/>
@@ -50,6 +51,12 @@
                 </a>
               </li>
               {% endif %}
+
+              <li>
+                <a href="https://r3bl.github.io/feed.xml" class"icon fa-rss">
+                  <span class="label">RSS</span>
+                </a>
+              </li>
 
               {% if site.linkedin_username %}
               <li>
