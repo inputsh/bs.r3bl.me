@@ -52,11 +52,13 @@
               </li>
               {% endif %}
 
+              {# if site.rss_feed %}
               <li>
-                <a href="https://r3bl.github.io/feed.xml" class"icon fa-rss">
+                <a href="{{ site.rss_feed }}" class"icon fa-rss">
                   <span class="label">RSS</span>
                 </a>
               </li>
+              {% endif %}
 
               {% if site.linkedin_username %}
               <li>

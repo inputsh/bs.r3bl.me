@@ -63,9 +63,10 @@ Trenutno bez radnog iskustva. Tražim pripravničku priliku ili juniorsku pozici
 
 ### Moji projekti
 
-| Naziv | Kratak opis | Status |
+| Naziv | Kratak opis projekta | Status |
 |:----------|:--------------|:-------|
 | [Da li je neko prošao Turingov test?](http://isturingtestpassed.github.io/) | Jednostavna web stranica koja sadrži sve potrebne informacije o [Turingovom testu](https://sr.wikipedia.org/wiki/%D0%A2%D1%98%D1%83%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2_%D1%82%D0%B5%D1%81%D1%82). | Održava se |
+| [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) | Specijalno dizajnirana lista korisnih resoursa vezanih za Linux i sve što ga okružuje. |
 | [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) | Specijalno dizajnirana lista korisnih Internet resursa vezanih za C programski jezik. | Održava se |
 | [awesome-blogs](https://github.com/aleksandar-todorovic/awesome-blogs) | Specijalno dizajnirana lista korisnih blogova širom Interneta. | Održava se |
 | [awesome-bosnia](https://github.com/aleksandar-todorovic/awesome-bosnia) | Specijalno dizajnirana lista korisnih resursa specifičnih za Bosnu i Herzegovinu. | Održava se |
@@ -77,6 +78,7 @@ Trenutno bez radnog iskustva. Tražim pripravničku priliku ili juniorsku pozici
 
 | Naziv | Kratak opis | Status |
 |:----------|:--------------|:-------|
+| [awesome](https://github.com/sindresorhus/awesome) | Centralno mjesto na kojem možete da pronađete sve _awesome_ liste koje se održavaju na GitHub-u. |
 | [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) | Specijalno dizajnirana lista romana i filmova iz oblasti naučne fantastike. | Održava se |
 | [awesome-atom](https://github.com/mehcode/awesome-atom) | Specijalno dizajnirana lista korisnih ekstenzija za [Atom](https://atom.io) editor teksta. | Održava se  |
 

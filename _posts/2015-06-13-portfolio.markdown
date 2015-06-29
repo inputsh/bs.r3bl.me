@@ -66,6 +66,7 @@ No working experience at the moment. Looking for internship opportunities or ent
 | Name of the Project | Short Description | Status |
 |:----------|:--------------|:-------|
 | [Has The Turing Test Been Passed?](http://isturingtestpassed.github.io/) | A simple website containing the information about the [Turing test](https://en.wikipedia.org/wiki/Turing_test). | Maintained |
+| [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) | A curated list of awesome Linux resources. | Maintained |
 | [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) | A curated list of useful resources for C programming language | Maintained |
 | [awesome-blogs](https://github.com/aleksandar-todorovic/awesome-blogs) | A curated list of awesome blogs across the Internet | Maintained |
 | [awesome-bosnia](https://github.com/aleksandar-todorovic/awesome-bosnia) | A curated list of resources specific to Bosnia & Herzegovina | Maintained |
@@ -77,6 +78,7 @@ No working experience at the moment. Looking for internship opportunities or ent
 
 | Name of the Project | Short Description | Status |
 |:----------|:--------------|:-------|
+| [awesome](https://github.com/sindresorhus/awesome) | A central list where you can find all of the other awesome lists on GitHub | Maintained |
 | [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) | A curated list of awesome Science Fiction novels and movies. | Maintained |
 | [awesome-atom](https://github.com/mehcode/awesome-atom) | A curated list of awesome packages for [Atom](https://atom.io) text editor. | Maintained  |
 

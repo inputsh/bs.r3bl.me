@@ -3,18 +3,15 @@
 title: Aleksandar Todorović
 email: aleksandar.todorovic@mail.ru
 
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: "Student, hacker and open source advocate who likes to share his stories with the world."
 url: "https://aleksandar-todorovic.github.io" # the base hostname & protocol for your site
 
-twitter_username:     r3bl_  # Replace this with your Twitter username
-github_username:      aleksandar-todorovic  # Replace this with your GitHub username
-linkedin_username:    aleksandartodorovic  # Replace this with your LinkedIn username
-google_plus_username: AleksandarTodorovićr3bl  # Replace this with your Google+ username
-facebook_username:    aleksandar.todorovic.r3bl  # Replace this with your Facebook username
+twitter_username:     r3bl_
+github_username:      aleksandar-todorovic
+linkedin_username:    aleksandartodorovic
+google_plus_username: AleksandarTodorovićr3bl
+facebook_username:    aleksandar.todorovic.r3bl
+rss_feed:             https://r3bl.github.io/feed.xml
 
 # Build settings
 markdown: kramdown
