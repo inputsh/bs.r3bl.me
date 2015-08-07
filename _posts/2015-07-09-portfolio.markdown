@@ -3,15 +3,15 @@ layout: post
 title: Portfolio (English version)
 categories: en
 ---
-For the Bosnian version of the portfolio, [click here](/bs/portfolio-bs).
+For the Bosnian version of the portfolio, [click here]({{ site.url }}/bs/portfolio-bs).
 
-<img src="./images/portfolio.jpg" class="fit image">
+<img src="{{ site.url }}/images/portfolio.jpg" class="fit image">
 
 ## Summary
 
 Student from Bosnia & Herzegovina studying IT engineering at eMPIRICA. Passionate about artificial intelligence, open source software and cybersecurity. Experienced in working with Linux-based and Windows operating systems. Capable of programming in several programming languages. Decent (mostly theoretical) knowledge of cybersecurity.
 
-For a short overview of the portfolio you can [download my resume](./assets/resume-en.pdf).
+For a short overview of the portfolio you can [download my resume]({{ site.url }}/assets/resume-en.pdf).
 
 ## Education
 

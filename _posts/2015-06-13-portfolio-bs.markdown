@@ -3,7 +3,7 @@ layout: post
 title: Portofolio (bosanska verzija)
 categories: bs
 ---
-Za englesku verziju portfolija, [klikni ovdje](/en/portfolio).
+Za englesku verziju portfolija, [klikni ovdje]({{ site.url }}/en/portfolio).
 
 <img src="/images/portfolio.jpg" class="fit image">
 
@@ -11,7 +11,7 @@ Za englesku verziju portfolija, [klikni ovdje](/en/portfolio).
 
 Student Inženjerske informatike na [eMPIRICA](http://empirica.ba/) fakultetu. Ogromno zainteresovan za umjetnu inteligenciju, open source softver i sajber sigurnost. Iskusan u korićenju Linux-baziranih i Windows operativnih sistema. Znam programirati u nekoliko programskih jezika. Pristojno ( većinom teoretsko) znanje iz oblasti sajber sigurnosti.
 
-Za skraćenu verziju, preuzmite [moj rezime](/assets/resume-bs.pdf).
+Za skraćenu verziju, preuzmite [moj rezime]({{ site.url }}/assets/resume-bs.pdf).
 
 ## Edukacija
 
