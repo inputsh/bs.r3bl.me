@@ -4,14 +4,13 @@ title: Aleksandar Todorović
 email: aleksandar.todorovic@mail.ru
 
 description: "Student, hacker and open source advocate who likes to share his stories with the world."
-url: "https://aleksandar-todorovic.github.io" # the base hostname & protocol for your site
+url: "https://r3bl.me" # the base hostname & protocol for your site
 
 twitter_username:     r3bl_
 github_username:      aleksandar-todorovic
 linkedin_username:    aleksandartodorovic
 google_plus_username: AleksandarTodorovićr3bl
 facebook_username:    aleksandar.todorovic.r3bl
-rss_feed:             https://r3bl.github.io/feed.xml
 
 # Build settings
 markdown: kramdown
