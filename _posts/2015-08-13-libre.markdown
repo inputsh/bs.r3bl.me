@@ -1,0 +1,16 @@
+---
+layout: post
+title: Portofolio (bosanska verzija)
+---
+
+<a href="https://libre.lugons.org/"><img title="LiBRE! časopis o slobodnom softveru" src="https://libre.lugons.org/wp-content/uploads/baneri/libre-468-60-lat.png" alt="LiBRE! časopis" style="width:468px;height:60px;border:0px;" /></a>
+
+Lista članaka koji su pronašli svoje mjesto u [časopisu LiBRE!](https://libre.lugons.org/):
+
+* [Slobodan softver i internet stvari (1. deo)](https://libre.lugons.org/index.php/broj-28/), objavljen u 28. broju časopisa LiBRE! na strani 16 (august/septembar 2014.)
+* [U potrazi za idealnom distribucijom: Ubuntu 14.04](https://libre.lugons.org/index.php/broj-27/), objavljeno u 27. broju časopisa LiBRE! na strani 22 (jul 2014.)
+* [TrueCrypt - šta se dogodilo](https://libre.lugons.org/index.php/broj-26/), objavljeno u 26. broju časopisa LiBRE! na strani 27 (jun 2014.)
+* [PC gejming industrija menja svoj pravac prema otvorenosti](https://libre.lugons.org/index.php/broj_18/), objavljeno u 18. broju časopisa LiBRE! na strani 24 (oktobar 2013.)
+* [Mixxx - Multiplatformski DJ program otvorenog koda (2. deo)](https://libre.lugons.org/index.php/broj_17/), objavljeno u 17. broju časopisa LiBRE! na strani 28 (septembar 2013.)
+* [Mixxx - Multiplatformski DJ program otvorenog koda](https://libre.lugons.org/index.php/broj_16/), objavljeno u 16. broju časopisa LiBRE! na strani 47 (august 2013.)
+* [Donacijama možemo da napravimo razliku](https://libre.lugons.org/index.php/broj_16/), objavljeno u 16. broju časopisa LiBRE! na strani 29 (august 2013.)
