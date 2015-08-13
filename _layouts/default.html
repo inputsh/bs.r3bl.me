@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+  		<title>{{ site.title }}</title>
+  		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  		<meta name="description" content="{{ site.description }}" />
+  		<meta name="keywords" content="" />
+  		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+  		<script src="{{ site.url }}/js/jquery.min.js"></script>
+  		<script src="{{ site.url }}/js/jquery.poptrox.min.js"></script>
+  		<script src="{{ site.url }}/js/skel.min.js"></script>
+  		<script src="{{ site.url }}/js/init.js"></script>
+  		<noscript>
+  			<link rel="stylesheet" href="{{ site.url }}/css/skel.css" />
+  			<link rel="stylesheet" href="{{ site.url }}/css/style.css" />
+  			<link rel="stylesheet" href="{{ site.url }}/css/style-xlarge.css" />
+  		</noscript>
+  		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-57666570-1', 'auto');
+        ga('send', 'pageview');
+      </script>
+  	</head>
+
+	<body id="top">
+
+      <header id="header">
+          <a href="{{ site.url }}" class="image avatar"><img src="{{ site.url }}/images/avatar.jpg" alt="" /></a>
+          <h1><strong>Aleksandar Todorović</strong><br/>
+            Student. Hacker.<br/>
+            Open Source Advocate.<br/>
+            I'm writing a <a href="http://blog.r3bl.me">blog</a>.</h1>
+      </header>
+
+
+        {{ content }}
+
+        <!-- Footer -->
+        <footer id="footer">
+            <ul class="icons">
+
+              {% if site.github_username %}
+              <li>
+                <a href="https://github.com/{{ site.github_username }}" class="icon fa-github">
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.twitter_username %}
+              <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.rss_feed %}
+              <li>
+                <a href="{{ site.rss_feed }}" class"icon fa-rss">
+                  <span class="label">RSS</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.linkedin_username %}
+              <li>
+                <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="icon fa-linkedin">
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.google_plus_username %}
+              <li>
+                <a href="https://plus.google.com/{{ site.google_plus_username }}" class="icon fa-google-plus">
+                  <span class="label">Google+</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.facebook_username %}
+              <li>
+                <a href="https://www.facebook.com/{{ site.facebook_username }}" class="icon fa-facebook">
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.dribbble_username %}
+              <li>
+                <a href="#" class="icon fa-dribbble">
+                  <span class="label">Dribbble</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.email %}
+              <li>
+                <a href="mailto:{{ site.email }}" class="icon fa-envelope-o">
+                  <span class="label">Email</span>
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+            <ul class="copyright">
+                <li>&copy; <a href="mailto:aleksandar.todorovic@mail.ru">Aleksandar Todorović</a></li>
+                <li><a href="https://github.com/aleksandar-todorovic/aleksandar-todorovic.github.io#credits">Credits</a></li>
+            </ul>
+        </footer>
+
+	</body>
+</html>
