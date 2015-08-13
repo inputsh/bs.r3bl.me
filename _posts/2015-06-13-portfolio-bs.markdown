@@ -1,17 +1,16 @@
 ---
 layout: post
 title: Portofolio (bosanska verzija)
-categories: bs
 ---
-Za englesku verziju portfolija, [klikni ovdje]({{ site.url }}/en/portfolio).
+Za englesku verziju portfolija, [klikni ovdje](http://r3bl.me/en/portfolio).
 
 <img src="/images/portfolio.jpg" class="fit image">
 
 ## Ukratko
 
-Student Inženjerske informatike na [eMPIRICA](http://empirica.ba/) fakultetu. Ogromno zainteresovan za umjetnu inteligenciju, open source softver i sajber sigurnost. Iskusan u korićenju Linux-baziranih i Windows operativnih sistema. Znam programirati u nekoliko programskih jezika. Pristojno ( većinom teoretsko) znanje iz oblasti sajber sigurnosti.
+Student Inženjerske informatike na [Visokoj školi računarstva i poslovnih komunikacija eMPIRICA](http://empirica.ba/). Strastven prema poljima umjetne inteligencije, open source softvera i sajber sigurnosti. Iskusan u korišćenju Linux-baziranih i Windows operativnih sistema. Sposoban programirati u nekoliko programskih jezika. Solidno (većinom teoretsko) znanje iz oblasti sajber sigurnosti.
 
-Za skraćenu verziju, preuzmite [moj rezime]({{ site.url }}/assets/resume-bs.pdf).
+Za skraćenu verziju, preuzmite [moj rezime](http://r3bl.me/assets/resume-bs.pdf).
 
 ## Edukacija
 
@@ -146,4 +145,4 @@ Trenutno bez radnog iskustva. Tražim pripravničku priliku ili juniorsku pozici
 [aleksandar.todorovic@opensource.com](mailto:aleksandar.todorovic@opensource.com) za prijedloge vezane za pisanje.<br/>
 [aleksandar.todorovic@mail.ru](mailto:aleksandar.todorovic@mail.ru) za bilo šta drugo.
 
-Takođe, možete me dodati kao prijatelja ili pratiti moj rad i na vašoj omiljenoj društvenoj mreži. Linkovi prema mojim profilima se nalaze na lijevoj strani web sajta.
+Takođe, možete me dodati kao prijatelja ili pratiti moj rad i na vašoj omiljenoj društvenoj mreži. Linkovi prema mojim profilima se nalaze u sidebar-u.
