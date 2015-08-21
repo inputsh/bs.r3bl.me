@@ -44,14 +44,17 @@ Za skraćenu verziju, preuzmite [moj rezime](http://r3bl.me/assets/resume-bs.pdf
 
 | Kurs   | Izdavač certifikata | Certifikat |
 |:----------|:-------------|:------|
-| Maliciozan softver i njegova podzemna ekonomija | University of London preko Coursera platforme | [Link](/assets/certificate1.pdf) |
-| Uvod u sajber sigurnost | Cisco mrežna akademija | [Link](/assets/certificate2.pdf) |
-| CCNA Routing and Switching: Uvod u računarske mreže | Cisco mrežna akademija | [Link](/assets/certificate3.pdf) |
-| Prestani biti praćen: Lekcije iz online privatnosti | Udemy | [Link](/assets/certificate4.pdf) |
-| Sagradi svoj sajber laboratorij kod kuće | Udemy | [Link](/assets/certificate5.pdf) |
-| Linux alternative za Windows aplikacije | Udemy | [Link](/assets/certificate6.pdf) |
-| Pentester certifikatski kurs | Udemy | [Link](/assets/certificate7.pdf) |
-| IPv6 certifikovan | Hurricane Electrics | [Link](/assets/certificate8.pdf) |
+| Europski volonterski servis (Youthpass certifikat) | Europska Unija (Erasmus+ program) | [Link](http://r3bl.me/assets/youthpass-certificate.pdf)<sup>1</sup> |
+| Maliciozan softver i njegova podzemna ekonomija | University of London preko Coursera platforme | [Link](http://r3bl.me/assets/certificate1.pdf) |
+| Uvod u sajber sigurnost | Cisco mrežna akademija | [Link](http://r3bl.me/assets/certificate2.pdf) |
+| CCNA Routing and Switching: Uvod u računarske mreže | Cisco mrežna akademija | [Link](http://r3bl.me/assets/certificate3.pdf) |
+| Prestani biti praćen: Lekcije iz online privatnosti | Udemy | [Link](http://r3bl.me/assets/certificate4.pdf) |
+| Sagradi svoj sajber laboratorij kod kuće | Udemy | [Link](http://r3bl.me/assets/certificate5.pdf) |
+| Linux alternative za Windows aplikacije | Udemy | [Link](http://r3bl.me/assets/certificate6.pdf) |
+| Pentester certifikatski kurs | Udemy | [Link](http://r3bl.me/assets/certificate7.pdf) |
+| IPv6 certifikovan | Hurricane Electrics | [Link](http://r3bl.me/assets/certificate8.pdf) |
+
+<sup>1</sup> Pošto nije moguće doći do potpisane digitalne verzije certifikata, ovo je link prema skeniranoj verziji.
 
 ## Iskustvo
 
@@ -73,21 +76,21 @@ Trenutno bez radnog iskustva. Tražim pripravničku priliku ili juniorsku pozici
 | [Implementacija sigurnosnih algoritama](https://github.com/aleksandar-todorovic/implementacija-sigurnosnih-algoritama) | Jednostavan primjer implementacije enkripcijskih i hešing funkcija iz .NET biblioteke funkcija. | Ne održava se više |
 | [SensitiveDataGrabber](https://github.com/aleksandar-todorovic/SensitiveDataGrabber) | Visual Basic .NET program koji sakuplja osjetljive podatke iz raznih Windows aplikacija, te ih čuva na USB fleš disk ili ih šalje na napadačev mail. Program ne detektuje niti jedan antivirus. | Ne održava se više |
 
-### Saradnik projekata
+### Saradnik na projekima
 
 | Naziv | Kratak opis | Status |
 |:----------|:--------------|:-------|
+| [Opensource.com](http://opensource.com) | Redovno pišem članke za sajt. Predstavljam njihov brend kao Community Moderator. Upravljam komentarima, brinući se da svi komentari poštuju pravila postavljena na sajtu. |
+| [Kompjuteraš](http://kompjuteras.com/) | Pišem o temama vezanim za IT. Promovišem open source softver. |
 | [awesome](https://github.com/sindresorhus/awesome) | Centralno mjesto na kojem možete da pronađete sve _awesome_ liste koje se održavaju na GitHub-u. |
-| [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) | Specijalno dizajnirana lista romana i filmova iz oblasti naučne fantastike. | Održava se |
-| [awesome-atom](https://github.com/mehcode/awesome-atom) | Specijalno dizajnirana lista korisnih ekstenzija za [Atom](https://atom.io) editor teksta. | Održava se  |
+| [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) | Specijalno dizajnirana lista romana i filmova iz oblasti naučne fantastike. |
+| [awesome-atom](https://github.com/mehcode/awesome-atom) | Specijalno dizajnirana lista korisnih ekstenzija za [Atom](https://atom.io) editor teksta. |
 
 ### Projekti kojima doprinosim svojim radom
 
 | Naziv | Opis mog doprinosa | Status |
 |:----------|:--------------|:-------|
-| [Opensource.com](http://opensource.com) | Redovno pišem članke za sajt. Predstavljam njihov brend kao Community Moderator. Upravljam komentarima, brinući se da svi komentari poštuju pravila postavljena na sajtu. | Aktivno učestvujem |
 | [elementary OS](https://elementary.io) | Prevodim čitav operativni sistem na bosanski jezik. Prevodim web stranicu projekta na bosanski jezik. Promovišem projekat. Doprinosim izgledu web stranice projekta. | Aktivno učestvujem |
-| [Kompjuteraš](http://kompjuteras.com/) | Pišem o temama vezanim za IT. Promovišem open source softver. | Aktivno učestvujem |
 | [Tor Project](https://www.torproject.org/) | Menadžer prevoda za nekoliko potprojekata. Prevodim projekat na bosanski, srpski i hrvatski jezik. | Aktivno učestvujem |
 | [Gnu Privacy Guard](https://gnupg.org/) | Menadžer prevoda proizvoda na bosanski i srpski jezik. | Aktivno učestvujem |
 | [Open WhisperSystems](https://whispersystems.org/) | Bez ičije pomoći sam preveo RedPhone i TextSecure mobilne aplikacije na srpski jezik. Menadžer ovih prevoda. | Aktivno učestvujem |
