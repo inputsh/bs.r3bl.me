@@ -2,7 +2,7 @@
 layout: post
 title: Portofolio (bosanska verzija)
 ---
-Za englesku verziju portfolija, [klikni ovdje](http://r3bl.me/en/portfolio).
+Za englesku verziju portfolija, [klikni ovdje](https://r3bl.me/en/portfolio).
 
 <img src="/images/portfolio.jpg" class="fit image">
 
@@ -10,7 +10,7 @@ Za englesku verziju portfolija, [klikni ovdje](http://r3bl.me/en/portfolio).
 
 Student Inženjerske informatike na [Visokoj školi računarstva i poslovnih komunikacija eMPIRICA](http://empirica.ba/). Strastven prema poljima umjetne inteligencije, open source softvera i sajber sigurnosti. Iskusan u korišćenju Linux-baziranih i Windows operativnih sistema. Sposoban programirati u nekoliko programskih jezika. Solidno (većinom teoretsko) znanje iz oblasti sajber sigurnosti.
 
-Za skraćenu verziju, preuzmite [moj rezime](http://r3bl.me/assets/resume-bs.pdf).
+Za skraćenu verziju, preuzmite [moj rezime](https://r3bl.me/assets/resume-bs.pdf).
 
 ## Edukacija
 
@@ -44,15 +44,15 @@ Za skraćenu verziju, preuzmite [moj rezime](http://r3bl.me/assets/resume-bs.pdf
 
 | Kurs   | Izdavač certifikata | Certifikat |
 |:----------|:-------------|:------|
-| Europski volonterski servis (Youthpass certifikat) | Europska Unija (Erasmus+ program) | [Link](http://r3bl.me/assets/youthpass-certificate.pdf)<sup>1</sup> |
-| Maliciozan softver i njegova podzemna ekonomija | University of London preko Coursera platforme | [Link](http://r3bl.me/assets/certificate1.pdf) |
-| Uvod u sajber sigurnost | Cisco mrežna akademija | [Link](http://r3bl.me/assets/certificate2.pdf) |
-| CCNA Routing and Switching: Uvod u računarske mreže | Cisco mrežna akademija | [Link](http://r3bl.me/assets/certificate3.pdf) |
-| Prestani biti praćen: Lekcije iz online privatnosti | Udemy | [Link](http://r3bl.me/assets/certificate4.pdf) |
-| Sagradi svoj sajber laboratorij kod kuće | Udemy | [Link](http://r3bl.me/assets/certificate5.pdf) |
-| Linux alternative za Windows aplikacije | Udemy | [Link](http://r3bl.me/assets/certificate6.pdf) |
-| Pentester certifikatski kurs | Udemy | [Link](http://r3bl.me/assets/certificate7.pdf) |
-| IPv6 certifikovan | Hurricane Electrics | [Link](http://r3bl.me/assets/certificate8.pdf) |
+| Europski volonterski servis (Youthpass certifikat) | Europska Unija (Erasmus+ program) | [Link](https://r3bl.me/assets/youthpass-certificate.pdf)<sup>1</sup> |
+| Maliciozan softver i njegova podzemna ekonomija | University of London preko Coursera platforme | [Link](https://r3bl.me/assets/certificate1.pdf) |
+| Uvod u sajber sigurnost | Cisco mrežna akademija | [Link](https://r3bl.me/assets/certificate2.pdf) |
+| CCNA Routing and Switching: Uvod u računarske mreže | Cisco mrežna akademija | [Link](https://r3bl.me/assets/certificate3.pdf) |
+| Prestani biti praćen: Lekcije iz online privatnosti | Udemy | [Link](https://r3bl.me/assets/certificate4.pdf) |
+| Sagradi svoj sajber laboratorij kod kuće | Udemy | [Link](https://r3bl.me/assets/certificate5.pdf) |
+| Linux alternative za Windows aplikacije | Udemy | [Link](https://r3bl.me/assets/certificate6.pdf) |
+| Pentester certifikatski kurs | Udemy | [Link](https://r3bl.me/assets/certificate7.pdf) |
+| IPv6 certifikovan | Hurricane Electrics | [Link](https://r3bl.me/assets/certificate8.pdf) |
 
 <sup>1</sup> Pošto nije moguće doći do potpisane digitalne verzije certifikata, ovo je link prema skeniranoj verziji.
 
